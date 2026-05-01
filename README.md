@@ -2,7 +2,8 @@
 REPLICATION PACKAGE FOR: A Multiway Cluster-Robust Test for Stochastic Dominance
 -----------------------------------------------------------------------------
 AUTHORS: Yaqian Wu, Qingliang Fan, and Yu-Chin Hsu
-=============================================================================
+
+
 
 This replication package contains all the necessary R code, custom functions, and empirical datasets to fully reproduce the simulation and empirical results presented in the manuscript "A Multiway Cluster-Robust Test for Stochastic Dominance".
 
@@ -84,8 +85,8 @@ Run the corresponding 2-way empirical scripts in the `/Empirical` folder. Each s
 Step 4: 3-Way Empirical Analysis (Tables D.4 to D.8)
 Run the corresponding 3-way empirical scripts in the `/Empirical` folder to reproduce the appendix tables.
 
+-----------------------------------------------------------------------------
 
-=============================================================================
 For any technical inquiries regarding this replication package, please contact:
 Yaqian Wu at wuyq2024@hust.edu.cn
-=============================================================================
+
