@@ -117,9 +117,5 @@ To systematically reproduce all tables in the main text and the appendix, please
 - **Step 5: 3-Way Empirical Analysis (Tables D.4 to D.8)**
   Run the corresponding 3-way empirical scripts in the `/Empirical` folder to reproduce the appendix tables
 
----
-
-**For any technical inquiries regarding this replication package, please contact:**
-Yaqian Wu at wuyq2024@hust.edu.cn
 
 ---
